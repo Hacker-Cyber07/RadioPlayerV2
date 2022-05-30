@@ -1,14 +1,14 @@
 # Telegram Radio Player V2
-![GitHub Repo stars](https://img.shields.io/github/stars/AsmSafone/RadioPlayerV2?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/AsmSafone/RadioPlayerV2?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/AsmSafone/RadioPlayerV2)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/AsmSafone/RadioPlayerV2)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AsmSafone/RadioPlayerV2)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AsmSafone/RadioPlayerV2)
-![GitHub contributors](https://img.shields.io/github/contributors/AsmSafone/RadioPlayerV2?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/RadioPlayerV2?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/RadioPlayerV2)
-![GitHub](https://img.shields.io/github/license/AsmSafone/RadioPlayerV2)
+![GitHub Repo stars](https://img.shields.io/github/stars/Hacker-Cyber07/RadioPlayerV2?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/Hacker-Cyber07/RadioPlayerV2?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/Hacker-Cyber07/RadioPlayerV2)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Hacker-Cyber07/RadioPlayerV2)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Hacker-Cyber07/RadioPlayerV2)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Hacker-Cyber07/RadioPlayerV2)
+![GitHub contributors](https://img.shields.io/github/contributors/Hacker-Cyber07/RadioPlayerV2?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/Hacker-Cyber07/RadioPlayerV2?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Hacker-Cyber07/RadioPlayerV2)
+![GitHub](https://img.shields.io/github/license/Hacker-Cyber07/RadioPlayerV2)
 [![Bot Support](https://img.shields.io/badge/Radio%20Player%20V2-support%20group-blue)](https://t.me/safothebot)
 
 
@@ -28,7 +28,7 @@ Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [SafoTheBot](htt
 
 ## Deploy to Heroku (The Easy Way)
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/AsmSafone/RadioPlayerV2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/hacker-Cyber07/RadioPlayerV2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deploying!
 
 ## Heroku Vars:
